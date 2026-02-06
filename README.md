@@ -68,3 +68,19 @@ The notebook includes comprehensive visualization tools using `Seaborn` and `Mat
 
 * `github_version_for_ICC_SAC.ipynb`: The primary notebook containing environment definitions, agent classes, training loops, and evaluation logic.
 * `models/`: (Generated after training) Directory containing saved `.pth` files for Actor and Critic networks.
+
+
+## 📜 Citation
+
+If you use this work, code, or methodology in your research, please cite it as follows:
+```bibtex
+@inproceedings{peppers2026sac,
+  title={Soft Actor-Critic Based Adaptive Routing for QoS-Driven Post-Disaster Networks},
+  author={Peppers, Sean and Gao, Tiying and Li, Zhirun and Qu, Chengyi},
+  booktitle={Proceedings of the IEEE International Conference on Communications (ICC)},
+  year={2026},
+  address={Glasgow, Scotland},
+  month={June},
+  note={Accepted / To Appear}
+}
+```
